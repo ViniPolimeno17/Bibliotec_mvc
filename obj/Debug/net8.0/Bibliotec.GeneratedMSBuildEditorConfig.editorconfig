@@ -50,6 +50,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/47766024829/Desktop/BibliotecaMVC/Bibliotec/Views/Livro/Cadrasto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cQ2FkcmFzdG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j3e5fi6e52
+
+[C:/Users/47766024829/Desktop/BibliotecaMVC/Bibliotec/Views/Livro/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cRGV0YWxoZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o0dx8e70r8
+
+[C:/Users/47766024829/Desktop/BibliotecaMVC/Bibliotec/Views/Livro/Editor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cRWRpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-gnpogp9kcd
+
+[C:/Users/47766024829/Desktop/BibliotecaMVC/Bibliotec/Views/Livro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k3p1f4hd93
+
+[C:/Users/47766024829/Desktop/BibliotecaMVC/Bibliotec/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bsnrxrgv4h
+
 [C:/Users/47766024829/Desktop/BibliotecaMVC/Bibliotec/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-s2fi3qphz6
+
+[C:/Users/47766024829/Desktop/BibliotecaMVC/Bibliotec/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-161fjyqyo5
